@@ -1,0 +1,5 @@
+# local state (if you add any later)
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
