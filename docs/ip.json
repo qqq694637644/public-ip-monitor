@@ -1,5 +1,5 @@
 {
-  "ip": "0.0.0.0",
-  "updated_utc": "1970-01-01T00:00:00Z",
-  "source": "init"
+  "updated_utc": "2026-02-22T08:52:54Z",
+  "source": "https://api.ipify.org",
+  "ip": "172.245.133.178"
 }
